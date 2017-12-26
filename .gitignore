@@ -39,3 +39,7 @@ Thumbs.db
 # Python Cached Files #
 #######################
 *.pyc
+
+# Intellij Idea Generated Files #
+#################################
+.idea
